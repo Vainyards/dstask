@@ -1,9 +1,10 @@
 summary: Harvest timmar check
 notes: ""
 tags:
+- todo
 - work
 project: internal
-priority: P2
+priority: P1
 delegatedto: ""
 subtasks: []
 dependencies: []
